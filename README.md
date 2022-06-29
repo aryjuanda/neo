@@ -1,12 +1,12 @@
-# Aine-MD
+# AryBotz-MD
 
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
 
 Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
 Jangan lupa untuk mengikuti github ku
-* My WhatsApp [`Click Here`](https://wa.me/62895330379186?text=Assalamualaikum)
-* My Facebook [`Click Here`](https://facebook.com/ainneboot)
+* My WhatsApp [`Click Here`](https://wa.me/994408465157?text=Assalamualaikum)
+* My Facebook [`Click Here`](https://www.facebook.com/profile.php?id=100076004896927)
 
 ## Heroku Buildpack
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aiinne/Aine-MD)
@@ -30,16 +30,15 @@ Jangan lupa untuk mengikuti github ku
 ## FOR TERMUX/UBUNTU/SSH USER
 
 ```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-apt install imagemagick -y
-git clone https://github.com/Aiinne/Aine-MD
-cd Aine-MD
-pkg install yarn
-yarn
-
+$ pkg update && pkg upgrade
+$ pkg install nodejs
+$ pkg install git
+$ pkg install libwebp
+$ pkg install ffmpeg
+$ pkg install yarn
+$ termux-setup-storage
+$ cd /sdcard/neo
+$ npm start
 ```
 ---------
 
@@ -66,17 +65,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & AINE-MD ]
 
-```bash
-ubuntu
-curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
-apt install -y nodejs gcc g++ make
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
-npm install
-npm update
-```
 
 ---------
 
@@ -87,12 +76,7 @@ npm update
 * Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
-```bash
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
-npm install
-npm update
-```
+
 
 ---------
 
@@ -128,7 +112,7 @@ node .
 
 ### `--session <file name>`
 
-Use another session with another name, default is ```session.data.json```
+Use another session with another name, default is ```kayy-md.json```
 
 ### `--prefix <prefixes>`
 
@@ -221,5 +205,5 @@ Semua yang selalu mendukung
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
 
 
-Best Regards. Aine-MD
+Best Regards. AryBotz-MD
 
