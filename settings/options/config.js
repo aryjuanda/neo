@@ -3,14 +3,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // OTHERS
-global.owner = ['994408465157', '994408465157']
-global.premium = ['994408465157']
-global.number = '994408465157'
-global.botname = 'AryBotz-MD'
-global.packname = 'ByAry-MD'
-global.author = 'By Ary-Caa-!'
-global.emailowner = 'arybotz791@gmail.com'
-global.websiteowner = 'https://github.com/aryjuanda'
+global.owner = ['6281368669741', '6281368669741']
+global.premium = ['6281368669741']
+global.number = '6281368669741'
+global.botname = 'VannBot-MD'
+global.packname = 'Vann-MD'
+global.author = 'By VannBot--!'
+global.emailowner = 'iVannTR8@gmail.com'
+global.websiteowner = 'https://v7vann.jimdofree.com'
 global.region = 'Indonesia'
 global.sessionName = "session"
 global.prefa = ['!','.','🐦','🐤','🗿']
@@ -19,7 +19,7 @@ global.simbol = "➭"
 global.rkyt = []
 
 // BIARIN:v
-global.creator = '© Created By AryBotz Official'
+global.creator = '© Created By VannBotz Official'
 
 // MESSAGE
 global.mess = {
@@ -42,11 +42,11 @@ free: 20
 }
 
 // MEDIA
-global.image = fs.readFileSync("./settings/media/image.jpg")
-global.thumbnail = fs.readFileSync("./settings/media/thumb.jpg")
+global.image = fs.readFileSync("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbL7sGqMrPrl14HNbijFDrxIi7MWmMGSASnBCM0pbszeYlgj5-0E526Ds&s=10")
+global.thumbnail = fs.readFileSync("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbL7sGqMrPrl14HNbijFDrxIi7MWmMGSASnBCM0pbszeYlgj5-0E526Ds&s=10")
 global.qris = fs.readFileSync("./settings/media/qris.jpg")
-global.scimg = fs.readFileSync("./settings/media/script.jpg")
-global.mnuimg = fs.readFileSync("./settings/media/menu.jpg")
+global.scimg = fs.readFileSync("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbL7sGqMrPrl14HNbijFDrxIi7MWmMGSASnBCM0pbszeYlgj5-0E526Ds&s=10")
+global.mnuimg = fs.readFileSync("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbL7sGqMrPrl14HNbijFDrxIi7MWmMGSASnBCM0pbszeYlgj5-0E526Ds&s=10")
 global.sewimg = fs.readFileSync("./settings/media/sewa.jpg")
 global.rulsimg = fs.readFileSync("./settings/media/rules.jpg")
 global.fitimg = fs.readFileSync("./settings/media/list.jpg")
